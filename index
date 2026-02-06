@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+      <head>
+       <title>Introduction of Duo Dong</title>
+      </head>
+    <body>
+       <!--This is to illustrate the usage of <h1> tag-->
+       <h1 align="center">Look at the Pic</h1>
+       <h2 align="center">This is a dog called <mark>Duo Dong</mark></h2>
+       <img src="bige.jfif">
+       <h2>His friends</h2>
+        <ul>
+            <li>Carrot Zhang Tianzhong</li>
+            <li>Rabbit Xiuzhen</li>
+            <li>Pelecanus Xiaohe</li>
+            <li>Cat Lipu</li>
+        </ul>
+        <h2>Their story is funny</h2>
+        <img src="beagle.jfif" width="785" height="500">
+       <p>Visit video of <a href="https://share.google/kGmqQBMqwTWvOvbC6">their holiday</a></p>
+       <p>You can also see it here</p>
+       <iframe width="785" height="500" src="https://www.bilibili.com/video/BV1MVmoBoEoP?t=3.8"></iframe>
+       <h2>I also want to be his friend!</h2>
+       <p class="bold_text">Though I have <em>3 friends </em> in this class</p>
+           <table border="1">
+            <caption>Name and Nickname</caption>
+             <tr>
+                <th>Name</th>
+                <th>Nickname</th>
+             </tr>
+             <tr>
+                <th>Hu Fei</th>
+                <th>Huffy</th>
+             </tr>
+             <tr>
+                <th>Wang Shihan</th>
+                <th>Ningning</th>
+             </tr>
+             <tr>
+                <th>Lin Ziyi</th>
+                <th>Bear</th>
+             </tr>
+           </table>
+    </body>
+
+</html>
